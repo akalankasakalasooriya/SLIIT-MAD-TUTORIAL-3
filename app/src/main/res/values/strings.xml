@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="activity_title">My Application</string>
+
+</resources>
